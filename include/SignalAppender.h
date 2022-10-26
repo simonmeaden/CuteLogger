@@ -1,7 +1,7 @@
 #ifndef SIGNALAPPENDER_H
 #define SIGNALAPPENDER_H
 
-#include <AbstractStringAppender.h>
+#include "AbstractStringAppender.h"
 #include <QObject>
 
 class SignalAppender
