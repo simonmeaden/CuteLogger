@@ -15,7 +15,7 @@
 #define CONSOLEAPPENDER_H
 
 #include "CuteLogger_global.h"
-#include <AbstractStringAppender.h>
+#include "AbstractStringAppender.h"
 
 
 class CUTELOGGERSHARED_EXPORT ConsoleAppender : public AbstractStringAppender
